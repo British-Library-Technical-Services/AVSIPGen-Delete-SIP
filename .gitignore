@@ -1,0 +1,4 @@
+# Ignored files
+/.idea
+/venv
+/config.py
